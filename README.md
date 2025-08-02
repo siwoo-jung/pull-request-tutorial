@@ -76,7 +76,7 @@ git push origin main
 
 Once you submit your pull request, I will review it and merge it into the main branch!
 
-    ![Merged](./assets/7.png)
+![Merged](./assets/7.png)
     
 ---
 
